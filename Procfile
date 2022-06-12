@@ -1,2 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Hanoi_Food_Classifier.ipynb
---Voila.ip=0.0.0.0
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True Hanoi_Food_Classifier.ipynb
